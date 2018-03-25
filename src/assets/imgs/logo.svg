@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g>
+	<circle fill="none" stroke="#00A79D" stroke-miterlimit="10" stroke-dasharray="11.7175,11.7175" cx="50" cy="50" r="48.5">
+	
+		<animateTransform  type="rotate" fill="remove" attributeName="transform" attributeType="XML" from="0 50 50" to="360 50 50" dur="10s" repeatCount="indefinite" accumulate="none" additive="replace" calcMode="linear" restart="always">
+		</animateTransform>
+	</circle>
+</g>
+<circle fill="#00A79D" cx="50" cy="50" r="39.5"/>
+<path fill="#FDFDFE" d="M75,58c0,1.657-1.344,3-3,3l0,0c-1.656,0-3-1.343-3-3v-8c0-1.657,1.344-3,3-3l0,0c1.656,0,3,1.343,3,3V58z">
+<animateTransform  type="translate" fill="remove" values="0,9;0,-9;0,9" attributeName="transform" attributeType="XML" dur="1s" repeatCount="indefinite" accumulate="none" additive="replace" calcMode="linear" restart="always">
+		</animateTransform>
+</path>
+<path fill="#FDFDFE" d="M59,58c0,1.657-1.344,3-3,3l0,0c-1.656,0-3-1.343-3-3v-8c0-1.657,1.344-3,3-3l0,0c1.656,0,3,1.343,3,3V58z">
+<animateTransform  type="translate" fill="remove" values="0,9;0,-9;0,9" attributeName="transform" attributeType="XML" dur="1s" repeatCount="indefinite" accumulate="none" additive="replace" calcMode="linear" restart="always">
+		</animateTransform>
+</path>
+<path fill="#FDFDFE" d="M43,58c0,1.657-1.344,3-3,3l0,0c-1.656,0-3-1.343-3-3v-8c0-1.657,1.344-3,3-3l0,0c1.656,0,3,1.343,3,3V58z">
+<animateTransform  type="translate" fill="remove" values="0,9;0,-9;0,9" attributeName="transform" attributeType="XML" dur="1s" repeatCount="indefinite" accumulate="none" additive="replace" calcMode="linear" restart="always">
+		</animateTransform>
+</path>
+<path fill="#FDFDFE" d="M27,58c0,1.657-1.344,3-3,3l0,0c-1.656,0-3-1.343-3-3v-8c0-1.657,1.344-3,3-3l0,0c1.656,0,3,1.343,3,3V58z">
+<animateTransform  type="translate" fill="remove" values="0,9;0,-9;0,9" attributeName="transform" attributeType="XML" dur="1s" repeatCount="indefinite" accumulate="none" additive="replace" calcMode="linear" restart="always">
+		</animateTransform>
+</path>
+<path fill="#FDFDFE" d="M35,50c0,1.657-1.344,3-3,3l0,0c-1.656,0-3-1.343-3-3v-8c0-1.657,1.344-3,3-3l0,0c1.656,0,3,1.343,3,3V50z">
+<animateTransform  type="translate" fill="remove" values="0,-9;0,9;0,-9" attributeName="transform" attributeType="XML" dur="1s" repeatCount="indefinite" accumulate="none" additive="replace" calcMode="linear" restart="always">
+		</animateTransform>
+</path>
+<path fill="#FDFDFE" d="M51,50c0,1.657-1.344,3-3,3l0,0c-1.656,0-3-1.343-3-3v-8c0-1.657,1.344-3,3-3l0,0c1.656,0,3,1.343,3,3V50z">
+<animateTransform  type="translate" fill="remove" values="0,-9;0,9;0,-9" attributeName="transform" attributeType="XML" dur="1s" repeatCount="indefinite" accumulate="none" additive="replace" calcMode="linear" restart="always">
+		</animateTransform>
+</path>
+<path fill="#FDFDFE" d="M67,50c0,1.657-1.344,3-3,3l0,0c-1.656,0-3-1.343-3-3v-8c0-1.657,1.344-3,3-3l0,0c1.656,0,3,1.343,3,3V50z">
+<animateTransform  type="translate" fill="remove" values="0,-9;0,9;0,-9" attributeName="transform" attributeType="XML" dur="1s" repeatCount="indefinite" accumulate="none" additive="replace" calcMode="linear" restart="always">
+		</animateTransform>
+</path>
+</svg>

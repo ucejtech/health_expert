@@ -1,0 +1,39 @@
+<div id="custom-overlay" [style.display]="splash ? 'flex': 'none'">
+	<ion-header color='fav'>
+
+  <ion-navbar style="background: transparent;">
+    <ion-title>HEALTH EXPERT</ion-title>
+  </ion-navbar>
+
+</ion-header>
+  <div class="flb">
+    <div class="Aligner-item Aligner-item--top"></div>
+    <img src="assets/imgs/logo.svg">
+    <div class="Aligner-item Aligner-item--bottom"></div>
+  <ion-footer style="text-align: center;font-size: 12px;">
+  	© 2018 Health Expert. All Rights Reserved. made by Ucejtech.
+  	</ion-footer>
+  </div>
+</div>
+
+<ion-header color='fav'>
+
+  <ion-navbar>
+    <ion-title>HEALTH EXPERT</ion-title>
+  </ion-navbar>
+
+</ion-header>
+<ion-content>
+	<ion-card id="card">
+
+		<ion-card-content>
+
+			<ion-list no-line>
+
+			<button ion-button block color="fav" (click)="Login()">Login</button>	
+			<div style="text-align: center;">OR</div>
+			<button ion-button block color="facebook" (click)="Signup()">Register</button>	
+			</ion-list>
+		</ion-card-content>
+	</ion-card>
+</ion-content>

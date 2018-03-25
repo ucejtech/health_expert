@@ -1,0 +1,45 @@
+
+	<div class='bar bar-positive'>
+		<h1 class="title">Health Expert</h1>
+	</div>
+<ion-content class="background">
+
+	<ion-card id="card">
+		<ion-card-header>
+			Login Form
+		</ion-card-header>
+
+		<ion-card-content>
+
+			<ion-list no-line>
+
+			<ion-item>
+				<ion-input type="text" placeholder="Username" #username></ion-input>
+			</ion-item>
+
+			<ion-item>
+				<ion-input type="password" placeholder="Password" #password></ion-input>
+			</ion-item>
+			<a (click)="Forgot()">Forgot Your Password?</a>
+			<button ion-button block outline color="fav" (click)="Login()">Login</button>
+			<p>OR</p>
+			<div [style.text-align]="center">
+			<button ion-button block color="facebook" style="margin-right: 0px">
+				<ion-icon name="logo-facebook"></ion-icon> Login with Facebook
+			</button>
+			<button ion-button block color="google">
+				<ion-icon name="logo-google"></ion-icon> Login with Google
+			</button>
+			<!-- <button ion-button color="github">
+				<ion-icon name="logo-github"></ion-icon>
+			</button>
+			<button ion-button color="twitter">
+				<ion-icon name="logo-twitter"></ion-icon>
+			</button> -->
+			</div>
+			</ion-list>
+		</ion-card-content>
+	<button ion-button clear full color="light" (click)="Register()">Don't have an account? Sign Up</button>
+	</ion-card>
+	<button ion-button color='primary' (click)='back()'>Go Back</button>
+</ion-content>
